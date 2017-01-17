@@ -1,0 +1,6 @@
+vendor/
+.bundle/
+node_modules/
+tags
+secrets.yml
+.env
