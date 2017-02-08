@@ -14,5 +14,7 @@ class RoadBike < Bicycle
     }
   end
 
-  # and other methods ...
+  def default_tire_size
+    '23'
+  end
 end
